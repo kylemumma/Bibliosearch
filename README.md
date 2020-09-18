@@ -1,9 +1,13 @@
 # Bibliosearch
 ## Library Book Image Search Web App
 
-This web app was developed in a team of 4 over the course of 24 hours at AngelHack Seattle 2019
+[![Biblosearch Demo](http://img.youtube.com/vi/cw5rFTCzmlY/0.jpg)](http://www.youtube.com/watch?v=cw5rFTCzmlY "Bibliosearch Demo")
 
-**A video demo of this app can be found [here](https://www.youtube.com/watch?v=cw5rFTCzmlY)**
+**Click the thumnail to view a video demo of the project**
+
+___
+
+This web app was developed in a team of 4 over the course of 24 hours at AngelHack Seattle 2019
 
 ### Technologies Used
  **Front End**
